@@ -2,7 +2,7 @@
 
 🎓 Self taught MERN developer<br>
 👌 Working on [OdinBook](https://github.com/gautedl/odinbook-frontend)<br>
-👉 Learning web3 and Solidity<br>
+👉 Learning .net, web3 and Solidity<br>
 📷 Freelance photographer<br>
 
 ## 🌐 Socials:
