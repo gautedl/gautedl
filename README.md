@@ -2,6 +2,7 @@
 
 🎓 Self taught MERN developer<br>
 👉 Learning .net, web3 and Solidity<br>
+👌 Working on a Hiking tracker mobile app<br>
 📷 Freelance photographer<br>
 
 ## 🌐 Socials:
