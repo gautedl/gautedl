@@ -29,9 +29,6 @@
 
 ## 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=gautedl&show_icons=true&theme=gruvbox)<br>
+<!--![](https://github-readme-stats.vercel.app/api?username=gautedl&show_icons=true&theme=gruvbox)<br>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautedl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-**gautedl/gautedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
