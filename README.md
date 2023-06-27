@@ -1,8 +1,6 @@
 # Gautedl ⚡
 
-🎓 Self taught MERN developer<br>
-👉 Learning .net, web3 and Solidity<br>
-👌 Working on a Hiking tracker mobile app<br>
+🎓 MERN developer<br>
 📷 Freelance photographer<br>
 
 ## 🌐 Socials:
@@ -27,8 +25,8 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-## 📊 Stats
+<!--!## 📊 Stats-->
 
 <!--![](https://github-readme-stats.vercel.app/api?username=gautedl&show_icons=true&theme=gruvbox)<br>-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautedl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--!![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautedl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
